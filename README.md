@@ -1,10 +1,10 @@
 
-## Default Account for testing
+## Default Akun untuk Admin
 
-**Admin Default Account**
+**Admin Default Akun**
 
 -   username: admin
--   Password: admin
+-   password: admin
 
 
 ## Install
