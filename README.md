@@ -1,4 +1,3 @@
----
 
 ## Default Account for testing
 
@@ -7,7 +6,6 @@
 -   username: admin
 -   Password: admin
 
----
 
 ## Install
 
